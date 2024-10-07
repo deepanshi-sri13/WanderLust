@@ -1,12 +1,12 @@
-**Wanderlust**
+# Wanderlust
 
 https://wanderlust-weqc.onrender.com/listings
 
-Project Description:
+## Project Description:
 
 Wanderlust is a web application designed for travel enthusiasts to explore new destinations, cultures, and experiences. Built using Node.js, Express.js, and MongoDB, this application allows users to discover and share their travel experiences.
 
-Features:
+## Features:
 
 - User authentication and authorization using Passport.js
 - Image upload and storage using Multer and Cloudinary
@@ -14,33 +14,33 @@ Features:
 - Responsive design using Bootstrap
 - Error handling for a seamless user experience
 
-Tech Stack:
+## Tech Stack:
 
 - Backend:
-    - Node.js (runtime environment)
-    - Express.js (web framework)
-    - MongoDB (database)
-    - Multer (image upload middleware)
-    - Passport.js (authentication framework)
+    - Node.js (`runtime environment`)
+    - Express.js (`web framework`)
+    - MongoDB (`database`)
+    - Multer (`image upload middleware`)
+    - Passport.js (`authentication framework`)
 - Frontend:
-    - Bootstrap (CSS framework for responsive design)
+    - Bootstrap (`CSS framework for responsive design`)
 - Image Storage:
-    - Cloudinary (cloud-based image storage and management)
+    - Cloudinary (`cloud-based image storage and management`)
 - Maps:
-    - TomTom (API for interactive maps)
+    - TomTom (`API for interactive maps`)
 - Error Handling:
     - Custom error handling for a seamless user experience
 - Other Libraries and Tools:
     - Various other libraries and tools to enhance the application's functionality and performance
 
 
-Installation:
+## Installation:
 
-1. Clone the repository: https://github.com/deepanshi-sri13/WanderLust.git
-2. Install dependencies: npm install
-3. Start the server: npm start
+1. Clone the repository: `https://github.com/deepanshi-sri13/WanderLust.git`
+2. Install dependencies: `npm install`
+3. Start the server: `npm start`
 
-Usage:
+## Usage:
 
 1. Register or login to start exploring destinations
 2. Upload images and share your travel experiences
@@ -48,6 +48,3 @@ Usage:
 4. Enjoy a seamless user experience with robust error handling
 
 
-Contributing:
-
-Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
