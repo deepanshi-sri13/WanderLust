@@ -1,4 +1,4 @@
-# Wanderlust
+# Wanderlust - Your Travel Companion 
 
 https://wanderlust-weqc.onrender.com/listings
 
